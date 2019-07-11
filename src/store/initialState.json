@@ -1,0 +1,20 @@
+{
+  "goal": 9,
+  "user": null,
+  "apiKey": "",
+  "tempLeads":[],
+  "leads": [],
+  "campaigns": [
+    {
+      "name":"campaign 1",
+      "id": "campaign_1"
+    }
+  ],
+  "smtp": null,
+  "fetching": false,
+  "errors": [],
+  "resortNames": {
+    "fetching": false,
+    "suggestions": []
+  }
+}
